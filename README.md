@@ -1,5 +1,5 @@
 # AIConferencesDeadlines
-Website: [GitHub Pages](https://dangmanhtruong1995.github.io/AIConferencesDeadlines/)
+Website: [AI conferences deadlines](https://dangmanhtruong1995.github.io/AIConferencesDeadlines/)
 
 Automatically pulls the paper submission deadlines of some well-known AI conferences by using AI agents. 
 
